@@ -5,7 +5,7 @@ dplyr
 [![Build Status](https://travis-ci.org/hadley/dplyr.png?branch=master)](https://travis-ci.org/hadley/dplyr)
 [![Coverage Status](https://img.shields.io/coveralls/hadley/dplyr.svg)](https://coveralls.io/r/hadley/dplyr?branch=master)
 
-dplyr is the next iteration of plyr, focussed on tools for working with data frames (hence the `d` in the name). It has three main goals:
+dplyr is the next iteration of plyr, focused on tools for working with data frames (hence the `d` in the name). It has three main goals:
 
 -   Identify the most important data manipulation tools needed for data analysis and make them easy to use from R.
 
